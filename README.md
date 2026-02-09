@@ -1,4 +1,4 @@
-# Team 22471A05 — Decoding Dementia: Alzheimer’s Classification Using VGG16 + GWO
+# Team AB1 — Decoding Dementia: Alzheimer’s Classification Using VGG16 + GWO
 
 ---
 
