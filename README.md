@@ -29,7 +29,8 @@ A CNN classifier is trained on optimized features for multi-class prediction acr
 
 ## Paper Reference (Inspiration)
 
-👉 **[STCNN model integrating SMOTE-Tomek with CNN for Alzheimer’s classification – Anjali et al., 2024](Paper URL here)**  
+👉 **[STCNN model integrating SMOTE-Tomek with CNN for Alzheimer’s classification – Anjali et al., 2024](https://ieeexplore.ieee.org/do
+cument/10413497)**  
 Original conference/IEEE paper used as inspiration for the model.
 
 ---
@@ -69,7 +70,7 @@ This project automatically detects and classifies Alzheimer’s stages from MRI 
 ## Dataset Used
 
 👉 **Alzheimer MRI 4-Class Dataset (Kaggle)**  
-[Dataset Link](Dataset URL)
+[Dataset Link](https://www.kaggle.com/datasets/marcopinamonti/alzheimer-mri-4-classes-dataset)
 
 ### Dataset Details:
 
